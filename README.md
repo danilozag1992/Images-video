@@ -12,6 +12,17 @@ That means two things – embedding the YouTube video player into the page so it
 - HTML 
 - CSS
 
+## Usage 
+
+#### Clone this repository
+```sh
+$ git clone https://github.com/danilozag1992/Images-video.git
+```
+#### CD in that directory
+```sh
+$ cd Images-video
+```
+
 ## Developers
 
 * [Adama Chubiyojo Desmond](https://github.com/kobiyoyo)[(Email)](mailto:Adamachubi@gmail.com)
